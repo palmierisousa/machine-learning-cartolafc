@@ -1,0 +1,30 @@
+ID - ID da partida
+Legenda - campeonato-brasileiro-full.csv
+Rodada : Rodada que aconteceu a partida
+Data : Data que ocorreu a partida
+HorÃ¡rio :  HorÃ¡rio que ocorreu a partida
+Dia : Dia da semana que ocorreu a partida
+Mandante : Clube mandante                      
+Visitante : Clube Visitante                      
+Vencedor : Clube vencedor da partida. Quando tiver "-", Ã© um empate
+Arena : Arena que ocorreu a partida                      
+Mandante Placar : Gols que o clube mandante fez na partida                      
+Visitante Placar : Gols que o clube visitante fez na partida                      
+Estado Mandante : Estado do clube mandatorio                      
+Estado Visitante : Estado do clube visitante                      
+Estado Vencedor : Estado do clube vencedor. Quando tiver "-", Ã© um empate
+
+
+Legenda - campeonato-brasileiro-estatisticas-full.csv
+ID - ID da partida
+Mandante - 0 == NÃ£o (Visitante), 1 == Sim (Mandante)
+Chutes - FinalizaÃ§Ãµes
+Chutes a gol - FinalizaÃ§Ãµes na direÃ§Ã£o do gol
+Posse de bola - Percentual da posse de bola
+Passes - Quantidade de passes que o clube deu na partida
+PrecisÃ£o de Passe - Percentual da precisÃ£o de passe
+Faltas - Quantidade de faltas cometidas na partida
+CartÃµes Amarelo - Quantidade de cartÃµes amarelos para o clube na partida
+CartÃµes Vermelhos - Quantidade de cartÃµes vermelhos para o clube na partida
+Impedimentos - Quantidade de impedimentos para o clube na partida
+Escanteios - Quantidade de escanteios para o clube na partida
